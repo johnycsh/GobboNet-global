@@ -1,3 +1,5 @@
+> **Fork work:** [Global workspace integration plan](GLOBAL-WORKSPACE.md) — optional Tailscale, Obsidian, Rootshell and TUIOS. Upstream instructions below remain unchanged. 🧜‍♀️
+
 # GobboNet — Your Own Private AI Front End, Now With An Easily Downloaded .exe
 
 GobboNet lets you run an AI chatbot **on your own computer**, with no accounts, no monthly fees, and nothing sent to the internet. The AI lives on your machine. When you talk to it, your words never leave your home.
